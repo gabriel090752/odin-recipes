@@ -1,0 +1,28 @@
+
+*{
+    background-color: #F2CCC3;
+}
+
+h1 {
+    font-family: "Verdana", "DejaVu Sans";
+    text-align: center;
+    color: #E78F8E;
+}
+
+ul{
+    color: #F48498;
+    padding: 8px;
+    list-style-type: none ;
+}
+
+li{
+    text-align: center;
+    padding: 56px;
+    background-color: #F48498;
+}
+
+a {
+    background-color: #F48498;
+    font-family: "Verdana", "DejaVu Sans";
+    text-decoration: none;
+}
